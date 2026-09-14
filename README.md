@@ -36,7 +36,7 @@ Firestore with real-time sync, and authentication is handled via Firebase Auth.
 - Auth-gated navigation — unauthenticated users only see the login screen
 
 ---
-## My Contributions##
+## My Contributions
 I worked on several core parts of GlugoMate, especially in the Food Diary and Meal Builder sections. These features required careful state handling, Firestore integration, and updating nested meal data without overriding existing entries.
 
 - **Food Diary components**  
