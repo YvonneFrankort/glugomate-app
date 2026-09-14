@@ -54,7 +54,7 @@ Contributed to the carbohydrate visualization logic, including the “carbs per 
 ---
 ### 📘 Project Poster (Course Assignment)
 
-[GlugoMate Math Poster (PDF)](docs/GlugoMate_MathPoster.pdf)
+[GlugoMate Math Poster (PDF)](https://github.com/YvonneFrankort/glugomate-app/blob/main/docs/MathPoster_Group5.pdf)
 
 ---
 
