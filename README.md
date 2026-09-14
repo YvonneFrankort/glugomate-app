@@ -52,6 +52,11 @@ Developed the edit flow so users could update foods inside existing meals withou
 Contributed to the carbohydrate visualization logic, including the “carbs per meal” and "weekly carb summary" chart and related data mapping. Worked on updating chart data correctly when meals or serving sizes changed.
 
 ---
+### 📘 Project Poster (Course Assignment)
+
+[GlugoMate Math Poster (PDF)](docs/GlugoMate_MathPoster.pdf)
+
+---
 
 ## Project Structure
  
