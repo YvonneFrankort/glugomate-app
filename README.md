@@ -34,7 +34,25 @@ Firestore with real-time sync, and authentication is handled via Firebase Auth.
 - Email and password registration and login via Firebase Authentication
 - Auth state persisted across app restarts
 - Auth-gated navigation — unauthenticated users only see the login screen
+
 ---
+## My Contributions##
+I worked on several core parts of GlugoMate, especially in the Food Diary and Meal Builder sections. These features required careful state handling, Firestore integration, and updating nested meal data without overriding existing entries.
+
+- **Food Diary components**  
+Implemented the expandable meal cards with per‑food carbohydrate bars, nutritional totals, and edit/delete actions. Ensured meal updates behaved correctly when modifying individual foods.
+
+- **Meal Builder UI & logic**  
+Built components for constructing meals, including gram‑based serving size scaling and nutritional recalculation. Worked on the flow for adding, editing, and updating foods inside a meal.
+
+- **Editing logged meals**  
+Developed the edit flow so users could update foods inside existing meals without overwriting unrelated data. This required merging Firestore data with local state carefully.
+
+- **Carb charts & calculations**  
+Contributed to the carbohydrate visualization logic, including the “carbs per meal” chart and related data mapping. Worked on updating chart data correctly when meals or serving sizes changed.
+
+---
+
 ## Project Structure
  
 ```
