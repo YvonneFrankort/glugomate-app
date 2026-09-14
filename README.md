@@ -49,7 +49,7 @@ Built components for constructing meals, including gram‑based serving size sca
 Developed the edit flow so users could update foods inside existing meals without overwriting unrelated data. This required merging Firestore data with local state carefully.
 
 - **Carb charts & calculations**  
-Contributed to the carbohydrate visualization logic, including the “carbs per meal” chart and related data mapping. Worked on updating chart data correctly when meals or serving sizes changed.
+Contributed to the carbohydrate visualization logic, including the “carbs per meal” and "weekly carb summary" chart and related data mapping. Worked on updating chart data correctly when meals or serving sizes changed.
 
 ---
 
