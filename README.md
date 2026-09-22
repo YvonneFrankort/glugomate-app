@@ -72,7 +72,6 @@ Contributed to the carbohydrate visualization logic, including the “carbs per 
 ### Meals
 |          |          |
 |----------|----------|
-
 <img width="1080" height="2400" alt="meals_today" src="https://github.com/user-attachments/assets/bd88a242-6e6d-45b3-90a2-03e52fb96182" /> | <img width="1080" height="2400" alt="meals_today2" src="https://github.com/user-attachments/assets/3854bae2-717b-4bf1-812f-f792a766a741" />
 
 ---
