@@ -64,9 +64,13 @@ Contributed to the carbohydrate visualization logic, including the “carbs per 
 |----------|----------|
 <img width="1080" height="2400" alt="food_diary" src="https://github.com/user-attachments/assets/29ee885d-f5bc-4e44-a976-61264ea0920f" /> | <img width="1080" height="2400" alt="food_search" src="https://github.com/user-attachments/assets/eaed1949-8797-419e-9b1c-a9ee7da78202" />
 
-
-<img width="1179" height="2556" alt="food_search2" src="https://github.com/user-attachments/assets/71916648-d8ff-44c3-a3f4-b5360ffe0942" />
+### Meal Builder
+| Diary    | Search   |
+|----------|----------|
+<img width="1179" height="2556" alt="food_search2" src="https://github.com/user-attachments/assets/71916648-d8ff-44c3-a3f4-b5360ffe0942" /> | 
 <img width="1080" height="2400" alt="mealBuilder" src="https://github.com/user-attachments/assets/59dc7d8b-680d-40c9-98c4-bf90d036c3b6" />
+
+
 <img width="1080" height="2400" alt="meals_today" src="https://github.com/user-attachments/assets/bd88a242-6e6d-45b3-90a2-03e52fb96182" />
 <img width="1080" height="2400" alt="meals_today2" src="https://github.com/user-attachments/assets/3854bae2-717b-4bf1-812f-f792a766a741" />
 
