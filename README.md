@@ -57,6 +57,16 @@ Contributed to the carbohydrate visualization logic, including the “carbs per 
 [GlugoMate Math Poster (PDF)](https://github.com/YvonneFrankort/glugomate-app/blob/main/docs/MathPoster_Group5.pdf)
 
 ---
+### 📷 Sreenshots
+
+Images/food_diary.jpg
+Images/food_search.jpg
+Images/food_search2.png
+Images/mealBuilder.jpg
+Images/meals_today.jpg
+Images/meals_today2.jpg
+
+---
 
 ## Project Structure
  
