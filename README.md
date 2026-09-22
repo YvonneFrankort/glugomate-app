@@ -59,7 +59,7 @@ Contributed to the carbohydrate visualization logic, including the “carbs per 
 ---
 ### 📷 Screenshots
 
-<img src="images/food_diary.jpg" 
+![]images/food_diary.jpg
 ![images/food_search.jpg
 images/food_search2.png
 images/mealBuilder.jpg
